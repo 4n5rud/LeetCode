@@ -11,12 +11,9 @@ public:
             // }
             // cout << " ]" << '\n';
 
-            if(nums[i] != val && i == write) {
-                write++;
-            } else if (nums[i] != val && i != write) {
-                int tmp = nums[i];
-                nums[i] = nums[write];
-                nums[write] = tmp;
+
+            if (nums[i] != val) {
+                nums[write] = nums[i];
 
                 write++;
             }
