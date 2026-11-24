@@ -5,9 +5,9 @@ impl Solution {
         }
 
         if n % 2 == 0 { 
-            return n;
+            n
         } else {
-            return n * 2;
+            n * 2
         }
     }
 }
