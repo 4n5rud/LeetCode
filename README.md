@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/4n5rud/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/4n5rud/LeetCode/tree/master/0066-plus-one) |
 | [2235-add-two-integers](https://github.com/4n5rud/LeetCode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/4n5rud/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/4n5rud/LeetCode/tree/master/2469-convert-the-temperature) |
 ## Array
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/4n5rud/LeetCode/tree/master/0035-search-insert-position) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/4n5rud/LeetCode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
